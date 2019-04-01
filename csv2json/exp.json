@@ -1,0 +1,34 @@
+{
+    "exp": [
+        {
+            "desc": "Researching and experimenting on novel methods of interpreting Machine Learning Classifiers",
+            "role": "Data Science R&D",
+            "title": "Orbuculum",
+            "duration": "Aug 2018 to Present"
+        },
+        {
+            "desc": "GCI mentor for the project Fabrik under the CloudCV organisation",
+            "role": "Google Code-In Mentor",
+            "title": "CloudCV",
+            "duration": "Oct 2018 to Dec 2018"
+        },
+        {
+            "desc": "Used neural networks to find salient information in genetic data",
+            "role": "Data Science Intern",
+            "title": "Orbuculum",
+            "duration": "Jan 2018 to April 2018"
+        },
+        {
+            "desc": "Organized AI4Good Hackathon as a part of Tech Club SSN",
+            "role": "Event Head",
+            "title": "AI4Good Hackathon",
+            "duration": "September 2018"
+        },
+        {
+            "desc": "Head of Logistics for SSNMUN 2018",
+            "role": "Under Seceretary General",
+            "title": "SSN MUN 2018",
+            "duration": "September 2018"
+        }
+    ]
+}
